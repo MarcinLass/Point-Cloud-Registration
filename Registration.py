@@ -105,6 +105,3 @@ print("dsdsad")
 #     pcd_1, pcd_2, threshold, np.eye(4),
 #     o3d.pipelines.registration.TransformationEstimationPointToPoint())
 #
-# print(reg_p2p)
-# print("Transformation is:")
-# print(reg_p2p.transformation)
